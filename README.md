@@ -20,7 +20,7 @@ Responder, com dados, perguntas que uma área financeira de seguros acompanha:
 ├── README.md
 ├── SQL/          notebook do Databricks (camadas Silver e Gold)
 ├── docs/         dicionário de dados (campos, tipos, chaves e regras)
-└── dashboards/   prints do Power BI e base consolidada (CSV)
+└── dashboards/   prints do Power BI 
 ```
 
 ## Modelo de dados (Star Schema)
